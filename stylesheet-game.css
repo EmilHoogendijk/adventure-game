@@ -1,0 +1,54 @@
+header {
+	background-image: url(img/header.jpg);
+	height: 120px;
+	color: white;
+	border-style: solid;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+body {
+	background-image: url(img/backgroundcosmos.png);
+}
+#image{
+	margin: 50px;
+}
+#inventory{
+	position: absolute;
+	top: 400px;
+	left: 950px;
+}
+#doorkey1 {
+	height: 20px;
+	position: absolute;
+	left: 965px;
+	top: 432px;
+	visibility: hidden;
+}
+#carkeyimg{
+	height: 50px;
+	position: absolute;
+	left: 1067px;
+	top: 425px;
+	visibility: hidden;
+	z-index: 999;
+}
+#tire {
+	position: absolute;
+	height: 100px;
+	left: 165px;
+	top:  390px;
+	visibility: hidden;
+}
+h1{
+	margin-top: 15px;
+	padding-left: 10px;
+}
+button {
+	text-decoration: none;
+	margin: 10px;
+}
+#functions {
+	background-color: black;
+	border-style: solid;
+	border-color: white;
+}
