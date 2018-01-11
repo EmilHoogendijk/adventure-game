@@ -24,13 +24,59 @@ body {
 	top: 432px;
 	visibility: hidden;
 }
-#carkeyimg{
+#carkeyimg {
 	height: 50px;
 	position: absolute;
 	left: 1067px;
 	top: 425px;
 	visibility: hidden;
 	z-index: 999;
+}
+#knoife {
+	height: 50px;
+	position: absolute;
+	left: 1180px;
+	top: 425px;
+	visibility: hidden;
+	z-index: 999;
+}
+#keysafe {
+	height: 40px;
+	position: absolute;
+	left: 1267px;
+	top: 425px;
+	visibility: hidden;
+	z-index: 999;
+}
+#paper1 {
+	height: 50px;
+	position: absolute;
+	left: 975px;
+	top: 525px;
+	visibility: hidden;
+}
+#paper2 {
+	height: 50px;
+	position: absolute;
+	left: 1075px;
+	top: 525px;
+	visibility: hidden;
+}
+#paper3 {
+	height: 50px;
+	position: absolute;
+	left: 1175px;
+	top: 525px;
+	visibility: hidden;
+
+}
+#paper4 {
+	height: 50px;
+	position: absolute;
+	left: 1275px;
+	top: 525px;
+	visibility: hidden;
+
 }
 #tire {
 	position: absolute;
